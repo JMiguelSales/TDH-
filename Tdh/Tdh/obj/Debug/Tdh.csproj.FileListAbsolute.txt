@@ -1,0 +1,11 @@
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\bin\Debug\Tdh.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\bin\Debug\Tdh.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\bin\Debug\Tdh.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\TDH\Tdh\Tdh\obj\Debug\Tdh.Form1.resources
